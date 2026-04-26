@@ -1,6 +1,6 @@
 FROM osrf/ros:jazzy-desktop-full-noble
 
-ARG USERNAME=vscode
+ARG USERNAME=tommy
 ARG USER_UID=1000
 ARG USER_GID=${USER_UID}
 ARG WS_BASENAME=repo
